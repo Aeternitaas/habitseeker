@@ -1,0 +1,7 @@
+# SPDX-FileCopyrightText: 2008-2025 Nicotine+ Contributors
+# SPDX-License-Identifier: GPL-3.0-or-later
+
+Version = "2026-11-22r00"
+Authors = ["Aeternitaas"]
+Name = "HabitSeeker"
+Description = "Exposes Nicotine+ as a REST API for use with the HabitSeeker browser extension."
